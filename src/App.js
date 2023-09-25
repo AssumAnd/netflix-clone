@@ -23,6 +23,9 @@ export default () => {
             <MovieRow />
           ))}
         </section>
+        <div className='commit'>
+          <h1>commit</h1>
+        </div>
    
       </div>
     </div>
